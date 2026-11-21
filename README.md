@@ -42,7 +42,7 @@ Declaración de autoría y créditos
 El código original del proyecto fue preparado con asistencia de IA generativa (OpenAI/Manus) a petición del equipo/usuario. Debe revisarse, comprenderse, probarse y adaptarse por los integrantes antes de presentarlo como trabajo del equipo.
 No se incorporaron fragmentos de código de terceros ni recursos visuales, sonoros o fuentes externas en esta versión inicial.
 Se utiliza únicamente la biblioteca estándar incluida con Python; Python se distribuye bajo su propia licencia, descrita en https://docs.python.org/3/license.html.
-Integrantes responsables de revisión, modificación y entrega: [completar nombres y aportes reales].
-La asistencia de IA no sustituye la declaración individual de contribuciones del equipo ni las políticas académicas aplicables.
+Integrantes responsables de revisión, modificación y entrega: Justin Bernal, Paulo Cabrera y Paul Pérez.
+
 Bitácora de gestión de conflictos
 La bitácora debe registrar un evento que haya ocurrido realmente. No se reportó un incidente real al preparar este esqueleto, así que no se atribuye al equipo un conflicto ficticio. Para completar el entregable, registren fecha, personas/roles, evidencia y resultado usando la plantilla BITACORA_CONFLICTOS.md. Si el equipo desea documentar un riesgo hipotético, identifíquenlo expresamente como simulación, no como incidente ocurrido.
