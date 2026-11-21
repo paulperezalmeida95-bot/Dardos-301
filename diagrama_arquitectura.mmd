@@ -1,0 +1,16 @@
+flowchart LR
+    subgraph LOCAL[Modo local]
+        U1[Jugador 1] --> UI[juego.py<br/>Interfaz terminal]
+        U2[Jugador 2] --> UI
+        UI --> LOG[game_logic.py<br/>Reglas 301 y estado]
+        LOG --> UI
+    end
+
+    subgraph LAN[Modo multijugador LAN]
+        P1[Jugador 1] --> SRV[server.py<br/>Servidor autoritativo]
+        CLI[client.py<br/>Cliente TCP] -->|JSON línea: jugada| SRV
+        SRV -->|JSON línea: estado o error| CLI
+        SRV --> GL[game_logic.py<br/>Validación y puntuación]
+        GL --> SRV
+        CLI --> P2[Jugador 2]
+    end

@@ -1,0 +1,41 @@
+# Bitácora de Gestión de Conflictos
+
+> Completar con un hecho real del equipo. No presentar el ejemplo como ocurrido si no sucedió. Si todavía no se ha producido un conflicto, pueden registrar un riesgo preventivo, claramente identificado como tal, y preguntar al docente si satisface el requisito.
+
+## Registro
+
+- **Fecha:** [aaaa-mm-dd]
+
+- **Proyecto/módulo afectado:** [p. ej., protocolo JSON del socket]
+
+- **Integrantes o roles involucrados:** [nombres/roles]
+
+- **Tipo de registro:** [conflicto ocurrido / riesgo preventivo / simulación autorizada]
+
+### Hechos
+
+[Describir lo observable y verificable, sin culpar ni atribuir intenciones. Ejemplo de estructura: “Durante la integración del día __, el cliente envió __ y el servidor esperaba __; por eso __”. Usar solo si refleja lo sucedido.]
+
+### Sentimientos
+
+[Explicar respetuosamente cómo afectó a los integrantes o al clima de trabajo. Cada persona puede describir su propia experiencia.]
+
+### Necesidades
+
+[Indicar qué se requiere para avanzar: contrato de mensajes definido, pruebas compartidas, responsables claros, tiempo para integración, etc.]
+
+### Petición y acuerdo
+
+[Propuesta concreta, negociada, asignable y con fecha. Ejemplo de estructura: “¿Podemos acordar antes del __ un formato JSON común, documentarlo en README y probarlo con un caso de conexión? __ prepara el ejemplo y __ verifica cliente/servidor”.]
+
+### Resultado y seguimiento
+
+- **Acuerdo aceptado por:** [nombres]
+
+- **Responsable(s):** [nombres]
+
+- **Fecha objetivo:** [fecha]
+
+- **Resultado observado:** [completar después de probar]
+
+- **Seguimiento:** [fecha/estado]
